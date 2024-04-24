@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+<img width="1469" alt="Screenshot 2024-04-24 at 1 53 10 AM" src="https://github.com/HeewonSeo1/FEM-Product-Perfume-Card/assets/119967072/cd3824af-e1a9-4ae4-a915-9bb42c360c75">
 
 ## Welcome! 👋
 
